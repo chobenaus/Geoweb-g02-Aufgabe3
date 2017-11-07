@@ -15,3 +15,5 @@ Um unsere Karte für die Aufgabe A3 zu bekommen sind folgende Schriite notwendig
 `code(npm install)`
 
 `code(npm start)`
+
+4. Die Karte soll erscheinen... (hoffentlich)
